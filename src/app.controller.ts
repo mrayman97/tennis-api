@@ -9,7 +9,7 @@ export class AppController {
       <h1>Test Technique - Backend</h1>
 
       <p>
-        Vous trouverez ci-dessous le lien Swagger pour les endpoints demandés :
+        Vous trouverez ci-dessous le lien Swagger pour les endpoints demandés, ainsi que le lien vers le dépôt GitHub du projet:
       </p>
 
       <ul>
