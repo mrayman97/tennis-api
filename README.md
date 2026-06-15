@@ -20,9 +20,6 @@ L'application a été développée en suivant les bonnes pratiques REST et inclu
 * NestJS
 * TypeScript
 * Swagger (OpenAPI)
-* class-validator
-* class-transformer
-* Render
 
 ## 🌐 Liens
 
@@ -94,6 +91,12 @@ Lancer l'application :
 
 ```bash
 npm run start:dev
+```
+
+L'application sera disponible à l'adresse :
+
+```txt
+http://localhost:3000/
 ```
 
 Swagger sera disponible à l'adresse :

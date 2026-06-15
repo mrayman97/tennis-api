@@ -14,13 +14,21 @@ export class AppController {
 
       <ul>
         <li>
-          <a href="https://tennis-api-ns20.onrender.com/swagger">
+          <a
+            href="/swagger"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Swagger Documentation
           </a>
         </li>
 
         <li>
-          <a href="https://github.com/mrayman97/tennis-api">
+          <a
+            href="https://github.com/mrayman97/tennis-api"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             GitHub Repository
           </a>
         </li>
