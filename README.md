@@ -23,17 +23,10 @@ L'application a été développée en suivant les bonnes pratiques REST et inclu
 
 ## 🌐 Liens
 
-### Application déployée
+### Application déployée en cloud sur Render
 
 https://tennis-api-ns20.onrender.com
 
-### Documentation Swagger
-
-https://tennis-api-ns20.onrender.com/swagger
-
-### Repository GitHub
-
-https://github.com/VOTRE_USERNAME/tennis-api
 
 ## 📌 Endpoints
 
