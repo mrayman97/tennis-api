@@ -29,7 +29,7 @@ describe('StatsService', () => {
       expect(countryWithHighestWinRatio).toBe('SRB');
     });
 
-    it('returns the correct average BMI rounded to 2 decimals', () => {
+    it('returns the correct average IMC rounded to 2 decimals', () => {
       const { averageIMC } = service.getStats();
       expect(averageIMC).toBe(23.36);
     });
